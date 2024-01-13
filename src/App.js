@@ -1,5 +1,5 @@
 import React from 'react'
-import "./app.css"
+import "./App.css"
 import ReactCalculator from './components/ReactCalculator'
 
 export default function App() {
